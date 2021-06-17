@@ -195,6 +195,12 @@ a:hover {
 	position:relative;
 }
 
+#symbol{
+	height: 7%;
+	width: 7%;
+}
+
+
 @media (max-width: 699px) {
 
 	#wrapper {
@@ -211,3 +217,5 @@ a:hover {
 	}
 
 }
+
+
