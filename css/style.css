@@ -200,6 +200,79 @@ a:hover {
 	width: 7%;
 }
 
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 1.8em;
+  font-weight: 500;  
+  border: none;
+  outline: none;
+  color: black;
+  margin-top: 0.7em;
+  margin-left: 2em;
+  background-color: inherit;
+  font-family: inherit;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  color: blue;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #white;
+  min-width: 160px;
+  z-index: 1;
+  margin-left: 2em;
+}
+
+
+.dropdown-content a {
+	font-size: 1em;
+  float: none;
+  color: black;
+  padding: 0.2em;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #white;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius:  50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+a.linkedin {
+  background: #black;
+  color: white;
+}
+
+a.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+
 
 @media (max-width: 699px) {
 
