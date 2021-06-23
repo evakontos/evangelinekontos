@@ -249,30 +249,6 @@ a:hover {
   display: block;
 }
 
-.fa {
-  padding: 15px;
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  border-radius:  50%;
-}
-
-.fa:hover {
-    opacity: 0.7;
-}
-
-a.linkedin {
-  background: #black;
-  color: white;
-}
-
-a.fa-pinterest {
-  background: #cb2027;
-  color: white;
-}
-
-
 
 @media (max-width: 699px) {
 
