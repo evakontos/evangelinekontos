@@ -2,6 +2,8 @@
 
 $(document).ready(function() {
 
-console.log('hello');
+	$( ".hamburger" ).click(function() {
+	  $(".topnav-right").toggleClass("show");
+	});
 
 });
