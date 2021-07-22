@@ -419,7 +419,10 @@ img.me {
 .topnav-right {
 	display: none;
 	width: 100%;
-	flex-direction: column;
+	justify-content: center;
+	margin-top: -2.2em;
+	margin-bottom: 1.2em;
+	font-size: .77em;
 }
 
 .hamburger {
@@ -433,7 +436,6 @@ img.me {
 .topnav-right.show {
 	display: flex;
 }
-
 
 }
 
