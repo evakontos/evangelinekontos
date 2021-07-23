@@ -401,13 +401,13 @@ img.me, #content{
 	display: block;
 	float: none;
 	width: 100%;
-	margin-bottom: 25px;
+	margin-bottom: 20px;
 }
 
 img.me {
 	width: 72%;
-	margin-left: 3em;
-	margin-right: 1em;
+	margin-left: 4em;
+	margin-right: 0em;
 	margin-top: 10em;
 }
 
@@ -415,7 +415,7 @@ img.me {
 	font-size: 0.7em;
 	margin-right: 3em;
 	margin-left: -4em;
-	margin-top: 2em;
+	margin-top: 4em;
 }
 
 #content {
