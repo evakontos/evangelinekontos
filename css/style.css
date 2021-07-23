@@ -401,12 +401,12 @@ img.me, #content{
 	display: block;
 	float: none;
 	width: 100%;
-	margin-bottom: 20px;
+	margin-bottom: 25px;
 }
 
 img.me {
 	width: 72%;
-	margin-left: 4em;
+	margin-left: 3em;
 	margin-right: 0.5em;
 	margin-top: 10em;
 }
@@ -419,7 +419,7 @@ img.me {
 }
 
 #content {
-	font-size: 1em;
+	font-size: 0.7em;
 	margin-left: 0em;
 	margin-right: 3em;
 	margin-top: 7em;
