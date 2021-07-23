@@ -437,6 +437,17 @@ img.me {
 	display: flex;
 }
 
+#wrapper3 {
+	margin-top: -1em;
+}
+
+.topnav a.active {
+	font-size: 1.4em;
+	margin-left: 10%;
+  margin-top: 5%;
+
+}
+
 }
 
 
