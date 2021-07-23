@@ -67,6 +67,7 @@ h1, h2{
 
 #wrapper {
 	margin: 4em auto;
+	margin-left: 7em;
 	max-width: 1200px;
 }
 
