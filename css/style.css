@@ -407,7 +407,15 @@ img.me, #content{
 img.me {
 	width: 72%;
 	margin-left: 3em;
-	margin-top: 12em;
+	margin-right: 1em;
+	margin-top: 10em;
+}
+
+#wrapper4 {
+	font-size: 0.7em;
+	margin-right: 3em;
+	margin-left: -3em;
+	margin-top: 0em;
 }
 
 #content {
