@@ -371,7 +371,7 @@ h5 {
 	}
 
 #main{
-	margin: 0em;
+	margin: 1em;
 	padding: 0em;
 	}
 
@@ -420,7 +420,7 @@ img.me {
 
 #content {
 	font-size: 1em;
-	margin-left: 1em;
+	margin-left: 0em;
 	margin-right: 3em;
 	margin-top: 7em;
 }
