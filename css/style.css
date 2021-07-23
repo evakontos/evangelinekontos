@@ -444,8 +444,12 @@ img.me {
 .topnav a.active {
 	font-size: 1.4em;
 	margin-left: 15%;
-  margin-top: 5.2%;
+  margin-top: 5.3%;
 
+}
+
+.dropdown-content {
+  margin-left: 3em;
 }
 
 }
