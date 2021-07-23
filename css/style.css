@@ -407,7 +407,7 @@ img.me, #content{
 img.me {
 	width: 72%;
 	margin-left: 3em;
-	margin-right: 0.5em;
+	margin-right: 1em;
 	margin-top: 10em;
 }
 
@@ -415,14 +415,14 @@ img.me {
 	font-size: 0.7em;
 	margin-right: 3em;
 	margin-left: -4em;
-	margin-top: 3em;
+	margin-top: 2em;
 }
 
 #content {
-	font-size: 0.7em;
+	font-size: 0.6em;
 	margin-left: 0em;
 	margin-right: 3em;
-	margin-top: 7em;
+	margin-top: 5em;
 }
 
 .topnav-right {
