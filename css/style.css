@@ -404,16 +404,16 @@ img.me, #content{
 }
 
 img.me {
-	width: 72%;
+	width: 80%;
 	margin-left: 3em;
-	margin-top: 12em;
+	margin-top: 10em;
 }
 
 #content {
 	font-size: 0.6em;
 	margin-left: 2em;
 	margin-right: 3em;
-	margin-top: 7em;
+	margin-top: 5em;
 }
 
 .topnav-right {
